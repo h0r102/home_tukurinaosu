@@ -1,0 +1,22 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "home application",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0r102/home.git"
+  },
+  "author": "masahiro hori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h0r102/home/issues"
+  },
+  "homepage": "https://github.com/h0r102/home#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
